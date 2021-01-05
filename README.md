@@ -1,4 +1,6 @@
-### Hi there 👋
+### Arthur Bauville 👋
+
+I am a research in the field of geology. I write computer models to simulate tectonic processes such as subduction or the formation of mountains.
 
 <!--
 **abauville/abauville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
