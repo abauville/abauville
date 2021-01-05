@@ -4,7 +4,7 @@ I am a research in the field of geology. I write computer models to simulate tec
 
 
 
-[![abauville's github stats](https://github-readme-stats.vercel.app/api?username=abauville&count_private=true&include_all_commits=true&hide_rank=true&theme=default&hide=stars,prs,issues,contribs&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats). 
+[![abauville's github stats](https://github-readme-stats.vercel.app/api?username=abauville&count_private=true&include_all_commits=true&hide_rank=true&theme=default&hide=stars,prs,issues,contribs&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abauville&layout=compact&theme=default&hide=makefile&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
