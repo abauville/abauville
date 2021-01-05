@@ -4,7 +4,11 @@ I am a research in the field of geology. I write computer models to simulate tec
 
 
 
-[![Abauville's github stats](https://github-readme-stats.vercel.app/api?username=abauville&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![abauville's github stats](https://github-readme-stats.vercel.app/api?username=abauville&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abauville&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **abauville/abauville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
