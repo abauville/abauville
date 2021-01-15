@@ -1,6 +1,6 @@
 ### Arthur Bauville
 
-I am a research in the field of geology. I write computer models to simulate tectonic processes such as subduction or the formation of mountains.
+I am a researcher in the field of computational Earth sciences. I write computer models to simulate tectonic processes such as subduction or the formation of mountains.
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abauville&layout=compact&theme=default&hide=makefile&hide_border=true)<br/>
