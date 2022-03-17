@@ -1,6 +1,6 @@
 ### Arthur Bauville
 
-I am a web developer, and I just love building stuff. I am also a researcher specialized in numerical simulations applied to Earth sciences. I am passionate about web dev, physics, simulations and machine learning.
+I am a software developer with a background in research. I use code to better understand the world through simulations, or to build the stuff I wished were already on the web.
 
 <!-- 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abauville&layout=compact&theme=default&hide=makefile&hide_border=true)<br/> -->
