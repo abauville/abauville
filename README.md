@@ -1,6 +1,6 @@
 ### Arthur Bauville
 
-I am a software developer with a background in research. I use code to better understand the world through simulations, or to build the stuff I wish to see on the web.
+I am a data scientist based in Yokohama, JP. I enjoy building simulations and applications that use machine learning to do sometimes useful, sometimes just fun stuff.
 
 <!-- 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abauville&layout=compact&theme=default&hide=makefile&hide_border=true)<br/> -->
